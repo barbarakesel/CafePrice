@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.Catalog.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.change.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.Dishwasher.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.Fridge.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.grill.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.izmen.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.MainForm.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.postavka.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.Vityazhka.resources
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\proectic16\proectic16\Debug\proectic16.vcxproj.AssemblyReference.cache
